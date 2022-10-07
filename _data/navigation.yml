@@ -1,0 +1,34 @@
+- name: Partner
+  link: /partner/
+  dropdown:
+    - name: Fraunhofer IWM
+      link: /iwm/
+    - name: FHI
+      link: /fhi/
+    - name: TIB
+      link: /tib/
+    - name: InfAI
+      link: /infai/
+    - name: KIT
+      link: /kit/
+- name: Arbeitsplan
+  link: /arbeitsplan/
+  dropdown:
+    - name: Arbeitspaket AP1
+      link: /arbeitsplan/#ap1
+    - name: Arbeitspaket AP2
+      link: /arbeitsplan/#ap2
+    - name: Arbeitspaket AP3
+      link: /arbeitsplan/#ap3
+    - name: Arbeitspaket AP4
+      link: /arbeitsplan/#ap4
+    - name: Arbeitspaket AP5
+      link: /arbeitsplan/#ap5
+- name: News
+  link: /news/
+- name: Veröffentlichungen
+  link: /veroeffentlichungen/
+- name: Glossar
+  link: /glossar/
+- name: Impressum
+  link: /impressum/
