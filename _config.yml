@@ -23,7 +23,7 @@ title: Projektwebseite STREAM
 email: info@infai.org
 description: >- # this means to ignore newlines until "baseurl:"
   STREAM - Semantische Repräsentation, Vernetzung und Kuratierung von qualitätsgesicherten Materialdaten.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 footer_menu: footer
 defaults:
