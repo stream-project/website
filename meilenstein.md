@@ -65,7 +65,7 @@ Dieser Meilenstein stellt grundlegende Festlegungen, die Architekturdefinition u
 Es konnte im vierten Quartal 2020 wesentlich an der **DCAT Schnittstelle** zu NOMAD gearbeitet werden. Die neue NOMAD API muss noch in Details angepasst werden, jedoch kann sie bereits zur Aggregation der DCAT Daten durch eine CKAN Instanz verwendet werden.
 Im Laufe von 2020 wurde der Architekturplan für AP4 überarbeitet und durch weitere Details ergänzt, Abbildung 6 stellt den aktuellen Stand dar.
 
-Abbildung 6: Architekturplan für AP4
+![Architekturplan für AP4](/assets/images/6.png)
 
 Die Übersicht geht von einer zunächst zentralen Instanz des Leibniz Data Manager aus, welche als Upstream Datenportal für Metadaten aus den Datenrepositories NOMAD und DSMS fungiert. Die Datenrepositories erhalten DCAT Schnittstellen welche von den existierenden CKAN Erweiterungen ckanext-harvest und ckanext-dcat im Zusammenspiel angesprochen werden können und eine add-hoc Synchronisation ermöglichen. Da durch Aktivierung dieser Erweiterungen auch eine DCAT Schnittstelle geöffnet wird, können zukünftig beliebige CKAN Instanzen (In der Abbildung angedeutet) sich beliebig an die Metadatensynchronisation anschließen.
 
@@ -73,7 +73,7 @@ Die Daten aus den Datenrepositories sollen nur bei Nutzeraktionen teilweise abge
 
 Der LDM ist mit einem SPARQL Endpunkt verbunden in welchem verschiedene Graphen gespeichert werden, siehe untere Abbildung. Außerdem werden in diesem Endpunkt die Metadaten im DCAT Format gespiegelt um diese für SPARQL Anfragen bereitstellen zu können. Daraus ergeben sich weitere Anwendungsmöglichkeiten.
 
-BILD
+![Graphen des RDF stores](/assets/images/7.png)
 
 Aus T3.3 und T4.5 wurde abgeleitet, ein Mapping Plugin für CKAN zu erstellen welches die Aufgaben größtenteils umsetzt. Neben Benutzerschnittstellen für die Kuratierung der Mappings, wird es die allgemeine Suche in CKAN mit Informationen über vorhandene Mappings ergänzen. Es werden zusätzlich Services verwendet, die die Daten der Datenrepositories anhand der Mappings in RDF transformieren und den Nutzern zum Abruf bzw. der CKAN Instanz für einfache Visualisierungen bereitstellen.
 
