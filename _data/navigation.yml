@@ -24,6 +24,12 @@
       link: /arbeitsplan#ap4
     - name: Arbeitspaket AP5
       link: /arbeitsplan#ap5
+    - name: Meilenstein 1.1
+      link: /meilenstein#m1-1
+    - name: Meilenstein 2.1
+      link: /meilenstein#m2-1
+    - name: Meilenstein 4.1
+      link: /meilenstein#m4-1
 - name: News
   link: /news
 - name: Veröffentlichungen

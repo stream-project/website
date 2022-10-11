@@ -8,7 +8,7 @@ layout: page
 
 ## Semantische Repräsentation, Vernetzung und Kuratierung von qualitätsgesicherten Materialdaten.
 
-Förderkennzeichen: 16QK11C
+Förderkennzeichen: 16QK11
 
 Die Materialwissenschaften stehen vor der großen Herausforderung, umfangreich vorliegende und neu hinzukommende Forschungsdaten qualitativ zu vernetzen und zugleich die Reproduzierbarkeit der Daten sicherzustellen. Darüber hinaus stellen die Bewertung, Bestandspflege und Speicherung, vor allem aber die Nutzbarmachung dezentral gespeicherter Daten im Zusammenhang mit der fortschreitenden Digitalisierung und dem daraus resultierenden Umgang mit neuem Wissen bisher nicht gekannte Anforderungen für die Materialwissenschaftler dar.
 
