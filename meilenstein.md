@@ -38,7 +38,7 @@ Im Rahmen des STREAM-Projekts wird die Ontologie der materialwissenschaftlichen 
 
 **Abbildung 3** zeigt die Kern-Ontologie von MSLE, die die erste Version von MSLE ist, die vom Karlsruher Institut für Technologie entwickelt wurde.
 
-Ein Teil der MSLE-Ontologie mit OntoGraf protégé (oben). Die gesamte MSLE-Ontologie mit OWLGrEd (unten).
+![Ein Teil der MSLE-Ontologie mit OntoGraf protégé (oben). Die gesamte MSLE-Ontologie mit OWLGrEd (unten)](/assets/images/MSLE2.png)
 
 **Die Phasen des Reifegradmodells – die MSLE-Ontologie als Testfall**
 
@@ -50,7 +50,7 @@ Das Reifegradmodell bietet folgende Eigenschaften:
 
 **Abbildung 4** veranschaulicht die vier groben Schritte beim Entwurf eines Reifegradmodells für die MSLE-Ontologie.
 
-**Abbildung 4: Das Reifegradmodell für die MSLE-Ontologie**
+![Das Reifegradmodell für die MSLE-Ontologie](/assets/images/MSLE1.jpg)
 
 Reifegradbewertung auf Basis des definierten Reifegradmodells
 Eine Reifegradbewertung ist eine Untersuchung eines oder mehrerer Prozesse durch ein geschultes Team von Fachleuten unter Verwendung eines Beurteilungsmodells. Eine Reifegradbewertung kann es den Beteiligten ermöglichen, Stärken und Verbesserungspunkte klar zu identifizieren und Maßnahmen zu priorisieren, um höhere Reifegrade zu erreichen. Der Prozess zur Bewertung des Reifegrads auf der Grundlage der MSLE-Ontologie ist in **Abbildung 5** dargestellt.
